@@ -15,6 +15,7 @@ Fruit.find({}).remove(function() {
   {name : 'Melon'},
   {name : 'Plum'},
   {name : 'Watermelon'},
+  {name : 'Watermelonzzz'},
   function () {
     console.log('>> Finished populating fruits');
   });
